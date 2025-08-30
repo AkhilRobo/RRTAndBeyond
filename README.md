@@ -39,4 +39,4 @@ The code provided implements the RRT algorithm in [insert programming language, 
 ## Example Output
 The following GIF demonstrates the RRT algorithm in action, showing the tree growth and the final path from the start to the goal in a 2D environment with obstacles:
 
-![RRT Algorithm Visualization](rrt_demo.gif)
+![RRT Algorithm Visualization](rrt_animation.gif)
