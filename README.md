@@ -33,7 +33,7 @@ The code provided implements the RRT algorithm in [insert programming language, 
 ### Running the Code
 1. Clone the repository or download the code.
 2. Install required dependencies: `[e.g., pip install numpy matplotlib]`.
-3. Run the script: `[e.g., python rrt.py]`.
+3. Run the script: `[e.g., python RRT.ipynb]`.
 4. The algorithm will generate a path from the start to the goal, avoiding obstacles, and display the result.
 
 ## Example Output
