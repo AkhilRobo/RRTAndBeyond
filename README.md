@@ -37,6 +37,6 @@ The code provided implements the RRT algorithm in [insert programming language, 
 4. The algorithm will generate a path from the start to the goal, avoiding obstacles, and display the result.
 
 ## Example Output
-The following GIF demonstrates the RRT algorithm in action, showing the tree growth and the final path from the start to the goal in a 2D environment with obstacles:
+The following GIF demonstrates the RRT algorithm in action, showing the tree growth and the final path from the start to the goal in a 2D and 3D environment with obstacles:
 
 ![RRT Algorithm Visualization](rrt_animation.gif)
